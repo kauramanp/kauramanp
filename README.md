@@ -1,42 +1,36 @@
-<div align="center">
+## Hi, I’m Amanpreet Kaur <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Mobile+Application+Developer;I'm+also+studying+From+IIT" /></a>
+</p>
+
+<p align ="center">
+  <a href="mailto:preetkaur93@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+   <a href="https://www.linkedin.com/in/kauramanp/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+ 
+  </a>  
+  <a href="https://twitter.com/amanp_kaur" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a>
+     
+  <a href="https://www.linkedin.com/in/kauramanp/" target="_blank">
+      <img src="https://img.shields.io/badge/Linkedin-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+  </p>
+
+
+<p >I specialize in the mobile application developer and have developed many application using restful apis, firebase, one signal notifications in Java, Kotlin and Dart. 
+</p>
+
+
+
+## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+  <a href="https://www.kotlin.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=kotlin&logoColor=white">
+  </a>
   
-## About
-Hello, I am mobile application developer, working on multiple source projects, mainly frontend using Kotlin and Dart. I have created many projects using firebase, rest apis in different architectures MVC, MVVM.
-
--------------------
-
-## Contact
-<a href="https://www.instagram.com/kaur.amanp/">![Instagram](https://img.shields.io/badge/Amanpreet-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/amanp_kaur">![Twitter](https://img.shields.io/badge/Amanpreet-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://www.linkedin.com/in/kauramanp/">![LinkedIn](https://img.shields.io/badge/Amanpreet-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&lo)</a> 
-
--------------------
-
-### Languages and Tools  
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-  
--------------------
-  
-![Amanpreet github stats](https://github-readme-stats.vercel.app/api?username=kauramanp&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Amanpreet github streak](https://github-readme-streak-stats.herokuapp.com/?user=kauramanp&theme=radical&include_all_commits=true&count_private=true)
-
  <div>
 
------
-Credits: [LachlanDev](https://github.com/LachlanDev)
-
-Last Edited on: 1/10/2021
-
-<!--
-**kauramanp/kauramanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

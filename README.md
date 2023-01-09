@@ -15,22 +15,31 @@
   <a href="https://twitter.com/amanp_kaur" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
-     
-  <a href="https://www.linkedin.com/in/kauramanp/" target="_blank">
-      <img src="https://img.shields.io/badge/Linkedin-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
   </p>
 
 
 <p >I specialize in the mobile application developer and have developed many application using restful apis, firebase, one signal notifications in Java, Kotlin and Dart. 
 </p>
 
-
-
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   <a href="https://www.kotlin.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white">
   </a>
-  
+    <a href="https://www.java.com/en/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=orange">
+  </a>
+      <a href="https://flutter.dev/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+   <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/kauramanp" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
  <div>
 

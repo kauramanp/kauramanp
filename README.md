@@ -15,6 +15,14 @@
   <a href="https://twitter.com/amanp_kaur" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
+  
+   <a href="https://g.dev/amanpreetkaur" target="_blank">
+    <img alt="GoogleDeveloperProfile" src="https://img.shields.io/badge/Google Developer Profile-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  </a> 
+  
+   <a href="https://stackoverflow.com/users/8075762/amanpreet-kaur" target="_blank">
+    <img alt="StackOverFlow" src="https://img.shields.io/badge/Stack Over Flow -F48024?style=for-the-badge&logo=stackoverflow&logoColor=white">
+  </a> 
   </p>
 
 
@@ -29,7 +37,15 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=orange">
   </a>
       <a href="https://flutter.dev/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/C-649AD2.svg?style=for-the-badge&logo=c&logoColor=white" alt="vsCode"/> 
+  </a>
+  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/C++-649AD2.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="vsCode"/> 
   </a>
    <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"

@@ -2,7 +2,8 @@
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Mobile+Application+Developer;I'm+also+studying+In+IIT" /></a>
 </p>
-
+💫 <b>About Me:</b><br>
+🌱 I’m learning everday to hone my coding skills<br>🤔 Working At O7 Solutions<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns:She/Her<br>⚡ Fun fact: State Level Basketball player, NCC Cadet, A shooter.<br><br><br>
 <p align ="center">
   <a href="mailto:preetkaur93@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
@@ -26,9 +27,6 @@
   </p>
 
 
-<p >I specialize in the mobile application development and have developed many application using restful apis, firebase, one signal notifications in Java, Kotlin and Dart. 
-</p>
-
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   <a href="https://www.kotlin.org" target="_blank">
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -38,6 +36,10 @@
   </a>
       <a href="https://flutter.dev/" target="_blank">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+    </a>
+      <a href="https://flutter.dev/" target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   </a>
   
   <a href="" target="_blank">
@@ -57,5 +59,12 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
+   <a href="" target="_blank">
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+  </a> 
+  
+   <a href="Postman"  target="_blank">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  </a> 
  <div>
 

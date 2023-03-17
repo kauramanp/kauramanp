@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Mobile+Application+Developer;I'm+also+studying+In+IIT" /></a>
 </p>
 💫 <b>About Me:</b><br>
-🌱 I’m learning everday to hone my coding skills<br>🤔 Working At O7 Solutions<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns:She/Her<br>⚡ Fun fact: State Level Basketball player, NCC Cadet, A Rifle shooter.<br><br><br>
+🌱 I’m learning everday to hone my coding skills<br>🤔 Working At O7 Solutions<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns: She/Her<br>⚡ Fun fact: State Level Basketball player, NCC Cadet, A Rifle shooter.<br><br><br>
 <p align ="center">
   <a href="mailto:preetkaur93@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>

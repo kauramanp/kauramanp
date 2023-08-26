@@ -1,6 +1,6 @@
 ## Hi, I’m Amanpreet Kaur <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Mobile+Application+Developer;I'm+also+studying+In+IIT" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Mobile+Application+Developer" /></a>
 </p>
 💫 <b>About Me:</b><br>
 🌱 I’m learning everday to hone my coding skills<br>🤔 Working At O7 Solutions<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns: She/Her<br>⚡ Fun fact: State Level Basketball player, NCC Cadet, A Rifle shooter.<br><br><br>

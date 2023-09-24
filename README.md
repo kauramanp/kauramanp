@@ -23,7 +23,7 @@
 
 Hi, I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India, currently, working as Sr. Mobile Application Developer🙍🏽‍♂️ at [O7 Solutions](https://www.o7solutions.in/). I am a Women Techmakers Ambassador. Beside's programming, I enjoy eating food, traveling and drawing.
 
-  
+   <img align="right" alt="GIF" src="https://github.com/kauramanp/kauramanp/blob/main/image.gif?raw=true" width="500" height="320" />
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently learning Compose :wink:
@@ -31,6 +31,8 @@ Hi, I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India, c
 - 😄 Pronouns: She/Her
 - ⚡ Few fact: A Speaker, State Level Basketball Player, NCC Cadet, A Rifle Shooter
 - 📫 How to reach me: [Gmail](mailto:preetkaur93@gmail.com?subject=Feedback%20From%20Github&body=Hello,)
+
+ 
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   <a href="https://www.kotlin.org" target="_blank">

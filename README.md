@@ -19,6 +19,7 @@
 
 
 <br />
+<br>
 
 Hi, I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India, currently, working as Sr. Mobile Application Developer🙍🏽‍♂️ at [O7 Solutions](https://www.o7solutions.in/). I am a Women Techmakers Ambassador. Beside's programming, I enjoy eating food, traveling and drawing.
 
@@ -28,8 +29,8 @@ Hi, I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India, c
 - 👨🏽‍💻 I’m currently learning Compose :wink:
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: State Level Basketball player, NCC Cadet, A Rifle shooter
-- 📫 How to reach me: [Gmail](mailto:preetkaur93@gmail.com?subject=Feedback%20From%20Github&body=Hello,);
+- ⚡ Few fact: A Speaker, State Level Basketball Player, NCC Cadet, A Rifle Shooter
+- 📫 How to reach me: [Gmail](mailto:preetkaur93@gmail.com?subject=Feedback%20From%20Github&body=Hello,)
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   <a href="https://www.kotlin.org" target="_blank">

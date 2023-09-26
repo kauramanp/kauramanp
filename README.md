@@ -21,7 +21,7 @@
 <br />
 <br>
 
-Hi, I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India, currently, working as Sr. Mobile Application Developer🙍🏽‍♂️ at [O7 Solutions](https://www.o7solutions.in/). I am a Women Techmakers Ambassador. Besides programming, I enjoy eating food, traveling and drawing.
+I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India, currently, working as Sr. Mobile Application Developer🙍🏽‍♂️ at [O7 Solutions](https://www.o7solutions.in/). I am a Women Techmakers Ambassador. Besides programming, I enjoy eating food, traveling and drawing.
 
    <img align="right" alt="GIF" src="https://github.com/kauramanp/kauramanp/blob/main/image.gif?raw=true" width="500" height="320" />
 <b>Talking about Personal Stuffs:</b>

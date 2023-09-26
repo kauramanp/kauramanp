@@ -30,7 +30,7 @@ I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India, curre
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: She/Her
 - ⚡ Few fact: A Speaker, State Level Basketball Player, NCC Cadet, A Rifle Shooter
-- 📫 How to reach me: [Gmail](mailto:preetkaur93@gmail.com?subject=Feedback%20From%20Github&body=Hello,)
+- 📫 How to reach me: [Drop an email](mailto:preetkaur93@gmail.com?subject=Feedback%20From%20Github&body=Hello,)
 
  
 

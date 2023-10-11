@@ -32,7 +32,6 @@ I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India, curre
 - ⚡ Few fact: A Speaker, State Level Basketball Player, NCC Cadet, A Rifle Shooter
 - 📫 How to reach me: [Drop an email](mailto:preetkaur93@gmail.com?subject=Feedback%20From%20Github&body=Hello,)
 
- 
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   <a href="https://www.kotlin.org" target="_blank">

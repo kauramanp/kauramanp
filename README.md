@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/kauramanp/">
   <img align="left" alt="Amanpreet's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://g.dev/amanpreetkaur" >
+<a href="https://g.dev/kauramanp" >
   <img align="left" alt="Aman's Google Developer Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg">
 </a> 
   

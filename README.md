@@ -21,7 +21,7 @@
 <br />
 <br>
 
-I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India. I am a Women Techmakers Ambassador, Google Cohort 2023 graduate. Besides programming, I enjoy eating food, traveling and drawing.
+I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India. I am a Core Team member of Google Developers Group Jalandhar, Women Techmakers Ambassador and Google Cohort 2023 graduate. Besides programming, I enjoy eating food, traveling and drawing.
 
    <img align="right" alt="GIF" src="https://github.com/kauramanp/kauramanp/blob/main/image.gif?raw=true" width="500" height="320" />
 <b>Talking about Personal Stuffs:</b>

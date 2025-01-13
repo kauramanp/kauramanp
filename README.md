@@ -29,7 +29,7 @@ I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India. I am 
 - 👨🏽‍💻 I’m currently learning Compose and swift UI :wink:
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: She/Her 
-- ⚡ Few fact: A Speaker, State Level Basketball Player, NCC Cadet, A Rifle Shooter
+- ⚡ Few facts: A Speaker, State Level Basketball Player, NCC Cadet, A Rifle Shooter
 - 📫 How to reach me: [Drop an email](mailto:kauramanp1808@gmail.com?subject=Feedback%20From%20Github&body=Hello,)
 
 

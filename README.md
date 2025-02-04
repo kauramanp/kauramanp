@@ -26,7 +26,7 @@ I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India. I am 
    <img align="right" alt="GIF" src="https://github.com/kauramanp/kauramanp/blob/main/image.gif?raw=true" width="500" height="320" />
 <b>Talking about Personal Stuffs:</b>
 
-- 👨🏽‍💻 I’m currently learning Compose and swift UI :wink:
+- 👨🏽‍💻 I’m currently learning Compose and swift UI
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: She/Her 
 - ⚡ Few facts: A Speaker, State Level Basketball Player, NCC Cadet, A Rifle Shooter

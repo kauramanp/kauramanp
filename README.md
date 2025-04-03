@@ -1,5 +1,5 @@
 # Hey there 👋
-<a href="mailto:kauramanp1808@gmail.com?subject=Feedback%20From%20Github&body=Hello,">
+<a href="mailto:kauramanp1808@gmail.com?subject=Feedback%20From%20Github&body=Hello, I am [your_name]">
   <img align="left" alt="Amanpreet Kaur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://twitter.com/amanp_kaur">

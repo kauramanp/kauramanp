@@ -15,9 +15,7 @@
 <a href="https://stackoverflow.com/users/8075762/amanpreet-kaur">
   <img align="left" alt="Aman's StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg">
 </a> 
-
-
-<br />
+<br/>
 <br>
 
 I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India. I am one of the organiser of Google Developers Group Jalandhar, Women Techmakers Ambassador, Google Cohort 2023 and APAC Women Developer Academy 2024 graduate. Besides programming, I enjoy eating food, reading novels, watching series, traveling and drawing.

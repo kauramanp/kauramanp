@@ -19,6 +19,7 @@
 <br>
 
 I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India. I am the organiser of Google Developers Group Jalandhar, Women Techmakers Ambassador, Google Cohort 2023 and APAC Women Developer Academy 2024 graduate. Besides programming, I enjoy eating food, reading novels, watching series, traveling and drawing.
+<br><br>
    <img align="right" alt="GIF" src="https://github.com/kauramanp/kauramanp/blob/main/image.gif?raw=true" width="500" height="320" />
 <b>Talking about personal stuffs:</b>
 

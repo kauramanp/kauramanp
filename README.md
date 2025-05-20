@@ -1,73 +1,63 @@
-# Hey there 👋 
-<a href="mailto:kauramanp1808@gmail.com?subject=Feedback%20From%20Github&body=Hello, I am [your_name]">
-  <img align="left" alt="Amanpreet Kaur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://twitter.com/amanp_kaur">
-  <img align="left" alt="Amanpreet Kaur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kauramanp/">
-  <img align="left" alt="Amanpreet's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://g.dev/kauramanp" >
-  <img align="left" alt="Aman's Google Developer Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg">
-</a> 
-  
-<a href="https://stackoverflow.com/users/8075762/amanpreet-kaur">
-  <img align="left" alt="Aman's StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg">
-</a> 
-<br/>
-<br>
+# 👋 Hi there, I'm Amanpreet Kaur
 
-I'm <b>Amanpreet Kaur</b>, a Mobile Application Developer 🚀 from India. I am the organiser of Google Developers Group Jalandhar, Women Techmakers Ambassador, Google Cohort 2023 and APAC Women Developer Academy 2024 graduate. Besides programming, I enjoy eating food, binge watching series, watching series, traveling and drawing<br><br>
-   <img align="right" alt="GIF" src="https://github.com/kauramanp/kauramanp/blob/main/image.gif?raw=true" width="500" height="320" />
-<b>Talking about personal stuffs:</b>
+🎯 **Mobile App Developer** | 💚 **Android Enthusiast** | 💻 **Open Source Contributor**  
+👩‍💻 Community Organiser at **GDG Jalandhar** | 🌸 **Women Techmakers Ambassador**  
 
-- 👨🏽‍💻 I’m currently learning Compose and swift UI
-- 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: She/Her 
-- ⚡ Few facts: A Speaker, State Level Basketball Player, NCC Cadet, A Rifle Shooter.
-- 📫 How to reach me: [Drop an email](mailto:kauramanp1808@gmail.com?subject=Feedback%20From%20Github&body=Hello,)
+---
 
+## 🚀 About Me
 
+I’m a passionate Android Developer with 6+ years of experience building intuitive, high-performing mobile apps using **Kotlin**, **Jetpack**, **MVVM**, and modern Android tech. I love exploring the depths of mobile UX, performance tuning, and contributing to tech communities.
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-  <a href="https://www.kotlin.org" target="_blank">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white">
-  </a>
-    <a href="https://www.java.com/en/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=orange">
-  </a>
-      <a href="https://flutter.dev/" target="_blank">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white">
-  </a>
-    </a>
-      <a href="https://flutter.dev/" target="_blank">
-    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  </a>
-  
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/C-649AD2.svg?style=for-the-badge&logo=c&logoColor=white" alt="vsCode"/> 
-  </a>
-  
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/C++-649AD2.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="vsCode"/> 
-  </a>
-   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/kauramanp" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-   <a href="" target="_blank">
-    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  </a> 
-  
-   <a href="Postman"  target="_blank">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  </a> 
- <div>
+I believe **"Community is power"**, and I’ve spoken at multiple developer events, shared insights, and mentored aspiring devs to grow with the ecosystem.
 
+---
+
+## 🛠️ Tech I Work With
+
+- **Languages**: Kotlin, Java, Dart  
+- **Frameworks**: Android SDK, Jetpack Compose, Flutter  
+- **Tools**: Android Studio, Firebase, Hilt, Retrofit, Git  
+- **Architectures**: MVVM, Clean Architecture  
+- **Other**: Agile, Open Source, Mentorship  
+
+---
+
+## 📢 Talks & Events
+
+- 🎤 *“Community – Together We Can Stand and Change”* – IWD Jalandhar
+- 🧩 *“Building Your First Open-Source Android Library”* – FOSS Meetup
+- ✨ *“Kotlin for Beginners”*, *“Flutter as a Game Changer”*, and more!
+
+---
+
+## 🌱 I’m Currently
+
+- 📚 Exploring **AI in Android Development**
+- 🧩 Working on open-source Android tools
+- 🤝 Connecting with fellow devs through meetups and mentorship
+
+---
+
+## 📊 GitHub Stats
+
+![Amanpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kauramanp&theme=radical&border_radius=4.5)](https://git.io/streak-stats)
+
+---
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kauramanp/)  
+- [Twitter](https://x.com/kauramanp)  
+- [GitHub](https://github.com/kauramanp)
+
+---
+
+💬 _"Let’s build, share, and grow — one commit at a time."_

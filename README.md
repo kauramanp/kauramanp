@@ -9,7 +9,7 @@
 
 I’m a passionate Android Developer with 6+ years of experience building intuitive, high-performing mobile apps using **Kotlin**, **Jetpack**, **MVVM**, and modern Android tech. I love exploring the depths of mobile UX, performance tuning, and contributing to tech communities.
 
-I believe **"Community is power"**, and I’ve spoken at multiple developer events, shared insights, and mentored aspiring devs to grow with the ecosystem
+I believe **"Community is power"**, and I’ve spoken at multiple developer events, shared insights, and mentored aspiring devs to grow with the ecosystem.
 
 ---
 

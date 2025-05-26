@@ -17,7 +17,7 @@ I believe **"Community is power"**, and I’ve spoken at multiple developer even
 
 - **Languages**: Kotlin, Java, Dart  
 - **Frameworks**: Android SDK, Jetpack Compose, Flutter  
-- **Tools**: Android Studio, Firebase, Hilt, Retrofit, Git  
+- **Tools**: Android Studio, Firebase, Hilt, Retrofit, Git, Visual Studio Code 
 - **Architectures**: MVC, MVVM, Clean Architecture  
 - **Other**: Agile, Open Source, Mentorship  
 

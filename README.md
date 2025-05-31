@@ -1,7 +1,7 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi there, I'm Amanpreet Kaur
 
 🎯 **Mobile App Developer** | 💚 **Android Enthusiast** | 💻 **Open Source Contributor**  
-👩‍💻 Community Organiser at **GDG Jalandhar** | 🌸 **Women Techmakers Ambassador**  
+👩‍💻 Community Organiser at **GDG Jalandhar** | 🌸 **Google's Women Techmakers Ambassador**  
 
 ---
 

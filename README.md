@@ -41,7 +41,6 @@ I believe **"Community is power"**, and I’ve spoken at multiple developer even
 ## 📊 GitHub Stats
 
 ![Amanpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 

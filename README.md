@@ -44,12 +44,6 @@ I believe **"Community is power"**, and I’ve spoken at multiple developer even
 
 ---
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kauramanp&theme=radical&border_radius=4.5)](https://git.io/streak-stats)
-
----
-
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kauramanp/)  

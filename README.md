@@ -2,7 +2,6 @@
 
 🎯 **Mobile App Developer** | 💚 **Android Enthusiast** | 💻 **Open Source Contributor**  
 👩‍💻 Community Organiser at **GDG Jalandhar** | 🌸 **Google's Women Techmakers Ambassador** | Google's APAC Graduate 
-
 ---
 ## 🚀 About Me
 

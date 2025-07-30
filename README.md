@@ -33,7 +33,7 @@ I believe **"Community is power"**, and I’ve spoken at multiple developer even
 ## 🌱 I’m Currently
 
 - 📚 Exploring **AI in Android Development**
-- 🧩 Working on open-source Android tools
+- 🧩 Working on open-source Android projects
 - 🤝 Connecting with fellow devs through meetups and mentorship
 
 ---

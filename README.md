@@ -49,6 +49,7 @@ I believe **"Community is power"**, and I’ve spoken at multiple developer even
 - [LinkedIn](https://www.linkedin.com/in/kauramanp/)  
 - [Twitter](https://x.com/kauramanp)  
 - [GitHub](https://github.com/kauramanp)
+- [Stackoverflow] (https://stackoverflow.com/users/8075762/amanpreet-kaur)
 
 ---
 
